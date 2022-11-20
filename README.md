@@ -8,9 +8,9 @@
   ![followers](https://img.shields.io/github/followers/giovannijunseokim?style=social)
 	
   </div>
-<!--
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b><br></h3>
-<h5 align="center">Techs that I've used at least once</h5> -->
+<h5 align="center">Techs that I've used at least once</h5>
 <p align="center"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> &nbsp 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> &nbsp 
