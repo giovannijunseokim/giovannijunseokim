@@ -29,27 +29,3 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannijunseokim&layout=compact)
 	
   </div>
-<!--
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lizze1221)](https://solved.ac/lizze1221)
-![ahra1221's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ahra1221&layout=compact&theme=graywhite)
-<br>
-
-👑 BOJ Tier <br><br>
-
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lizze1221)](https://solved.ac/lizze1221)
- -->
-<!--
-**ahra1221/ahra1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
