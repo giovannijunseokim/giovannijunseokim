@@ -26,6 +26,4 @@
 	
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giovannijunseokim&show_icons=true&theme=graywhite)](https://github.com/giovannijunseokim/github-readme-stats)
 	
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannijunseokim&layout=compact)
-	
   </div>
