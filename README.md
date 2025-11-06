@@ -20,7 +20,7 @@
 
 **[우아한테크코스](https://www.woowacourse.io/)** 7기 안드로이드 크루
 
-**[YOURSSU](https://yourssu.com/)** 2024 안드로이드 팀
+**[YOURSSU](https://yourssu.com/)** 2024 안드로이드, 숨쉴때 V2 검색 팀
 
 **[SOPT Makers](https://makers.sopt.org/)** 34, 35기 플랫폼 팀 안드로이드 챕터
 
