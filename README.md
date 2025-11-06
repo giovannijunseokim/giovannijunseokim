@@ -20,6 +20,6 @@
 
 **[YOURSSU](https://yourssu.com/)** 2024 안드로이드 팀
 
-**[SOPT Makers](https://makers.sopt.org/)** 플랫폼 팀 안드로이드 챕터
+**[SOPT Makers](https://makers.sopt.org/)** 34, 35기 플랫폼 팀 안드로이드 챕터
 
 **[SOPT](https://www.sopt.org/)** 31기 안드로이드 파트 YB, 32기 안드로이드 파트장
