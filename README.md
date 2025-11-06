@@ -10,9 +10,11 @@
 
 **[런세권](https://github.com/woowacourse-teams/2025-course-pick)** | 2025 | 러닝 코스 탐색 서비스
 
-**[SOPT Android](https://github.com/sopt-makers/sopt-android)** | 2024 | 국내 최대 IT 벤처창업동아리 SOPT의 공식 Android 앱
+**[SOPT](https://github.com/sopt-makers/sopt-android)** | 2024 | 국내 최대 IT 벤처창업동아리 SOPT의 공식 Android 앱
 
-**[NOTTODO](https://github.com/DO-NOTTO-DO/AOS-NOTTODO)** | 2022 ~ 2024 | 하지 말아야 할 일을 관리하는 습관 관리 서비스
+**[숨쉴때](https://play.google.com/store/apps/details?id=com.yourssu.soomsil&pcampaignid=web_share)** | 2024 | 숭실대 학생들을 위한 대학라이프 종합 어플리케이션
+
+**[낫투두](https://github.com/DO-NOTTO-DO/AOS-NOTTODO)** | 2022 ~ 2023 | 하지 말아야 할 일을 관리하는 습관 관리 서비스
 
 ## 💼 Experience
 
