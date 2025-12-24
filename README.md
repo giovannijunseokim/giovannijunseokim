@@ -8,7 +8,7 @@
 
 ## 📱 Projects
 
-**[런세권](https://github.com/woowacourse-teams/2025-course-pick)** | 2025 | 러닝 코스 탐색 서비스
+**[런세권](https://github.com/woowacourse-teams/2025-course-pick)** | 2025 ~ | 러닝 코스 탐색 서비스
 
 **[SOPT](https://github.com/sopt-makers/sopt-android)** | 2024 | 국내 최대 IT 벤처창업동아리 SOPT의 공식 Android 앱
 
